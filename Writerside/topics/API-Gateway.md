@@ -44,7 +44,7 @@ işlenemez. Bu nedenle, birden fazla Gateway uygulamalı ve trafik load balancer
 
 * Bazen Gateway'e özgü front-end uygulamamız gerekebilir. Örneğin, üç farklı front-end'imiz var: Android client, iOS 
 client, Web Client. Hepsi düzgün çalışabilmesi için bazı özel APIs ve konfigürasyon gerektirebilir. Bu durumu aşmak için 
-her tür client için bir tane olmak üzere birden fazla türde API Gateway'ler oluşturmamız gerekebilir. 
+her tür client için bir tane olmak üzere birden fazla türde service tabanlı mimari oluşturmamız gerekebilir. 
 Bazen bu model `Back-end for Front-end(BFF)` olarak adlandırılır.
 
 
