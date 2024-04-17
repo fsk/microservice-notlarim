@@ -7,4 +7,6 @@
                  start-page="config-server.md">
 
     <toc-element topic="config-server.md"/>
+    <toc-element topic="Starter.md"/>
+    <toc-element topic="API-Gateway.md"/>
 </instance-profile>

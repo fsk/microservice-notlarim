@@ -26,4 +26,20 @@
         <description>Created after removal of "Reference" from Help Instance</description>
         <accepts>Reference.html</accepts>
     </rule>
+    <rule id="5735e86e">
+        <description>Created after removal of "How to" from Help Instance</description>
+        <accepts>How-to.html</accepts>
+    </rule>
+    <rule id="291e0dbf">
+        <description>Created after removal of "Tutorial" from Help Instance</description>
+        <accepts>Tutorial.html</accepts>
+    </rule>
+    <rule id="611136d3">
+        <description>Created after removal of "Overview" from Help Instance</description>
+        <accepts>Overview.html</accepts>
+    </rule>
+    <rule id="721a4f59">
+        <description>Created after removal of "Overview" from Help Instance</description>
+        <accepts>Overview.html</accepts>
+    </rule>
 </rules>
